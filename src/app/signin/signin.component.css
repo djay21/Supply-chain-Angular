@@ -7,8 +7,30 @@ float:left;
 width:100%;
 padding : 50px 0;
 }
-.banner-sec{background:url(https://arovent.com/images/Arovent/Supply-Chain-Management-ERP-Services--Software-Provider-SAP-Consulting-Partner-in-delhi-ncr-Arovent-Technologies-Pvt-Ltd.png)  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 20px 20px 0; padding:0;}
-.container{background:#fff; border-radius: 20px; box-shadow:15px 20px 0px rgba(0,0,0,0.1);}
+.banner-sec{
+    background-color: #DE6262;
+    background:url(https://arovent.com/images/Arovent/Supply-Chain-Management-ERP-Services--Software-Provider-SAP-Consulting-Partner-in-delhi-ncr-Arovent-Technologies-Pvt-Ltd.png)  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 20px 20px 0; padding:0;}
+.box{
+   
+    background:#fff; 
+    border-radius: 20px;
+    box-shadow:15px 20px 0px rgba(0,0,0,0.1);
+    width:80%;
+   
+    height: auto;
+    margin: 7% auto;
+    padding: 10px;
+    position: relative;
+
+   
+ }
+.container{
+    height: 100%;
+    width:100%;
+    background-color:#D2B4DE;
+    
+    
+   }
 .carousel-inner{border-radius:0 10px 10px 0;}
 .carousel-caption{text-align:left; left:5%;}
 .login-sec{padding: 50px 30px; position:relative;}
